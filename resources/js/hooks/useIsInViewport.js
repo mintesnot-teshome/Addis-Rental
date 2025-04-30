@@ -23,3 +23,4 @@ const useIsInViewport = (ref, options = {}) => {
 };
 
 export default useIsInViewport;
+
