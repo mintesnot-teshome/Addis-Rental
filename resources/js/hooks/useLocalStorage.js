@@ -46,3 +46,4 @@ const setToLocalStorage = (key, value) => {
   }
   localStorage.setItem(key, JSON.stringify(existingValue));
 };
+
